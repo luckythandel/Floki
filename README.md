@@ -1,6 +1,7 @@
 # Floki
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![logo](https://github.com/luckythandel/Floki/blob/main/assets/logo/logo.png)
 
 Floki is a mainly Python based tool to create some sequences of words. It is helpful in Binary Exploitation and in PWN CTF challanges. You can use this tool in various ways. You can create sequences like, `AAAA,BBBB,CCCC,DDDD`. Or You can create random words like, `ABCD, ACBD, ADCB, ABDC`.
 
